@@ -11,14 +11,14 @@
  
  A fully responsive Chat App, <br />Responsive for all devices, build using Node js, Express,  html, css, Socket.io
  
-<a href="https://car-rif4.onrender.com"><strong>➥ Live Demo</strong></a>
+<a href="https://chat-app-f1qp.onrender.com/"><strong>➥ Live Demo</strong></a>
   
 </div>
 <br />
 
 ### Demo Screeshots
 
-![Car Desktop Demo](https://github.com/sundramsharma1/car/blob/master/Untitled.png)
+![Car Desktop Demo](https://github.com/sundramsharma1/Chat_App/blob/master/public/Untitled.png)
 
 ### Prerequisites
 
@@ -28,18 +28,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Car** locally, run this command on your git bash:
+To run **Chat App** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/sundramsharma1/car.git
+sudo git clone https://github.com/sundramsharma1/Chat_App.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/sundramsharma1/car.git
+git clone https://github.com/sundramsharma1/Chat_App.git
 ```
 
 ### Contact
